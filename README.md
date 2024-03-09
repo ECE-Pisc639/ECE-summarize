@@ -1,6 +1,6 @@
 <style>
    * {
-      filter: invert(100%);
+      filter: invert(1) hue-rotate(180deg);
    }
 </style>
 # Summarize
