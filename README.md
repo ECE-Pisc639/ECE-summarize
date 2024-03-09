@@ -1,5 +1,5 @@
 <style>
-   * {
+   *,table {
       filter: invert(1) hue-rotate(180deg);
    }
 </style>
