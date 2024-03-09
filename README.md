@@ -59,5 +59,8 @@
 * **backstage:**
     * Bam
     * Pisc
-* **publicizer:**
+* **ประชาสัมพันธ์:**
     * Ing
+* **พิธีกร:**
+    * Thank
+    * Nina
