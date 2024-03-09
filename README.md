@@ -1,4 +1,8 @@
-<div style="filter: invert(100%);">
+<style>
+   * {
+      filter: invert(100%);
+   }
+</style>
 # Summarize
 ## บทบาท
 
@@ -69,4 +73,3 @@
 * **พิธีกร:**
     * Thank
     * Nina
-</div>
