@@ -68,3 +68,5 @@
 * **พิธีกร:**
     * Thank
     * Nina
+(Students Information)[https://raw.githubusercontent.com/ECE-Pisc639/ECE-summarize/main/Information%201.jpg]
+(Summarize Information)[https://raw.githubusercontent.com/ECE-Pisc639/ECE-summarize/main/Information.jpg]
