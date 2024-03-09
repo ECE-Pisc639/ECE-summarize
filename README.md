@@ -56,8 +56,16 @@
 * **backstage:**
     * Bam
     * Pisc
+* **director:**
+    * San
+    * Kaimook
+* **writer:**
+    * Hui
+    * Ice
+    * Ning
 * **ประชาสัมพันธ์:**
     * Ing
 * **พิธีกร:**
     * Thank
     * Nina
+
