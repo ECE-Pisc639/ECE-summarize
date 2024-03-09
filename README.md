@@ -55,7 +55,9 @@
 ### ทีม
 
 * **prop:**
-    * -
+    * ต่างคนต่างหา
 * **backstage:**
     * Bam
     * Pisc
+* **publicizer:**
+    * Ing
